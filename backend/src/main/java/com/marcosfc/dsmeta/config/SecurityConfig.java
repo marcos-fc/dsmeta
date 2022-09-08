@@ -1,4 +1,4 @@
-package com.marcosfc.dsmeta.dsmeta.config;
+package com.marcosfc.dsmeta.config;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.marcosfc.dsmeta.dsmeta;
+package com.marcosfc.dsmeta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

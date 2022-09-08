@@ -1,4 +1,4 @@
-package com.marcosfc.dsmeta.dsmeta.entities;
+package com.marcosfc.dsmeta.entities;
 
 import java.time.LocalDate;
 
