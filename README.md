@@ -16,4 +16,4 @@ Technologies used in the project
 #### H2
 
 ## Test and deploy
-#### Postman, Heroku, Netlify
+#### Postman, Netlify
